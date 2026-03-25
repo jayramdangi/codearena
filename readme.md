@@ -114,14 +114,22 @@ Project
 
 ---
 
-## 📸 Screenshots (Add here)
-- Homepage  
-- Code Editor  
-- Contest Page  
-- 1v1 Battle UI  
-- Admin Dashboard  
+## 📸 Screenshots
 
----
+### 🏠 Homepage
+![Homepage](./screenshot/home.png)
+
+### ⚔️ Live Battles
+![Battle](./screenshot/live_battles.png)
+
+### 💻 Code Editor
+![Editor](./screenshot/editor.png)
+
+### 📘 Problems Page
+![Problems](./screenshot/problems.png)
+
+### 🏆 Contests
+![Contests](./screenshot/contests.png)
 
 ## 📈 What This Project Demonstrates
 
